@@ -30,4 +30,5 @@ cara menggunakan pada xml
         />
         
 
-    Thanx for : https://github.com/airbnb/lottie-android
+
+ Thanx for : https://github.com/airbnb/lottie-android
