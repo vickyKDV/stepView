@@ -29,3 +29,5 @@ cara menggunakan pada xml
         app:showstep_1="false"
         />
         
+
+    Thanx for : https://github.com/airbnb/lottie-android
