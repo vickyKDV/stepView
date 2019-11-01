@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StepView Animation</string>
+
+    <string name="step1">Hello 1</string>
+    <string name="step2">Hello 2</string>
+    <string name="step3">Hello 3</string>
+    <string name="step4">Hello 4</string>
+</resources>

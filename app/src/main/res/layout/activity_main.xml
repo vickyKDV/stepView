@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.vickykdv.stepviewanimation.stepViewAnimation
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:step_1_desc="Konfirmasi"
+        app:step_2_desc="Pemaketan"
+        app:step_3_desc="Kirim"
+        app:step_4_desc="Selesai"
+        app:showstep_1="false"
+        >
+
+    </com.vickykdv.stepviewanimation.stepViewAnimation>
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="stepViewAnimation">
+        <!--<attr name="dragEdge">-->
+            <!--<flag name="left" value="1" />-->
+            <!--<flag name="right" value="2" />-->
+            <!--<flag name="top" value="4" />-->
+            <!--<flag name="bottom" value="8" />-->
+        <!--</attr>-->
+
+
+        <attr name="step_1_desc" format="string"/>
+        <attr name="step_2_desc" format="string"/>
+        <attr name="step_3_desc" format="string"/>
+        <attr name="step_4_desc" format="string"/>
+
+
+
+        <attr name="showstep_1" format="boolean"/>
+        <attr name="showstep_2" format="boolean"/>
+        <attr name="showstep_3" format="boolean"/>
+        <attr name="showstep_4" format="boolean"/>
+
+
+    </declare-styleable>
+</resources>
